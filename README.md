@@ -1,56 +1,64 @@
-# Hi there, I'm Deepak Yadav 👋
+# Hi, I'm Deepak Yadav 👋
 
-### 🤖 AI/ML Engineer & Technical Leader | GenAI & LLMOps Specialist
+I am an **AI/ML Engineer & Technical Leader** based in Mumbai. I specialize in the practical, production side of artificial intelligence—moving beyond Jupyter Notebooks to architect scalable **Multi-Agent Systems, advanced RAG pipelines, and automated LLMOps infrastructure**.
 
-I am a highly skilled **AI/ML Engineer** specializing in building autonomous multi-agent systems, scalable **RAG Pipelines**, and production-grade **LLMOps infrastructure**. I bridge the gap between advanced AI research and industry-standard deployments using robust CI/CD, container orchestration, and cloud systems.
-
----
-
-## 📈 Executive Summary & Impact
-
-- **Technical Leadership:** Guided 300+ junior developers through end-to-end production lifecycles, accelerating project delivery by **25%**.
-- **Research & Innovation:** Published 2 research papers focusing on Machine Learning systems in healthcare and cloud orchestration.
-- **Industry Experience:** Former Data Science Intern at Search Digitally, where I optimized customer segmentation models, boosting targeting accuracy by **12%**.
+With a mix of corporate experience and academic technical leadership, I don't just build models; I build the pipelines that test, deploy, monitor, and secure them.
 
 ---
 
-## 🛠️ Technical Skills & Ecosystem
+## ⚡ Executive Summary & Real-World Impact
 
-| Category | Technologies |
-| --- | --- |
-| **Generative AI & LLMs** | Llama 3, GPT-4, Mistral-7B, LangChain, LangGraph, Advanced RAG Pipelines, Prompt Engineering |
-| **Vector Databases** | AstraDB, Pinecone, FAISS |
-| **Data Science & Core ML** | Python, SQL, Scikit-learn, XGBoost, TensorFlow, NLP, Computer Vision (OpenCV) |
-| **MLOps / DevOps & CI/CD** | Docker, Kubernetes (Minikube/GKE), Jenkins, ArgoCD, CircleCI, MLflow, DVC |
-| **Observability & Security** | ELK Stack (Elasticsearch, Logstash, Kibana), Prometheus, Grafana, Aqua Security (Trivy), SonarQube |
-| **Cloud & Backend APIs** | AWS (EC2, S3, ECR), GCP (GAR, GKE), FastAPI, Flask, REST APIs, Streamlit |
+* **Accelerating Engineering Teams:** Led technical sprints and architecture reviews for over 300+ junior developers, optimization that ultimately accelerated project delivery timelines by **25%**.
+* **Bridging Research & Production:** Published 2 research papers focused on core ML applications in healthcare systems and scalable cloud orchestration frameworks.
+* **Data-Driven Engineering:** During my time at *Search Digitally*, I re-engineered customer segmentation using K-Means and XGBoost, which directly drove a **12% increase** in business targeting accuracy.
 
 ---
 
-## 🚀 Featured Production-Grade AI/ML Projects
+## 🛠️ My Tech Stack & Ecosystem
 
-### 1. 🤖 Multi-AI Agent System
-* **Tech Stack:** LangGraph, FastAPI, Jenkins, SonarQube, AWS ECR
-* **Impact:** Built a multi-agent application for complex task decomposition. Implemented a rigid CI/CD pipeline with Jenkins and SonarQube for static code analysis, deployed securely to AWS ECR.
+### 🤖 Generative AI & Vector Engineering
+* **Frameworks:** LangChain, LangGraph (Complex Multi-Agent Orchestration), LlamaIndex
+* **Models:** Llama 3, Mistral-7B, GPT-4, Custom Prompt Engineering
+* **Vector DBs:** AstraDB, Pinecone, FAISS (Semantic Search & Retrieval Optimization)
 
-### 2. 🏥 Medical RAG Chatbot (End-to-End LLMOps)
-* **Tech Stack:** Mistral-7B/Llama, FAISS, Jenkins, Docker, Trivy (Aqua Security)
-* **Impact:** Developed a specialized medical Q&A engine optimized with FAISS for rapid semantic retrieval. Integrated Trivy into the automation pipeline for container vulnerability scanning.
+### 🏗️ LLMOps, CI/CD & Infrastructure
+* **Orchestration & Containers:** Docker, Kubernetes (Local Minikube & Google Kubernetes Engine - GKE)
+* **Automation Pipelines:** Jenkins, CircleCI, ArgoCD
+* **Security & Testing:** SonarQube (Static Code Quality), Aqua Security / Trivy (Container Vulnerability Scanning)
 
-### 3. 🛒 Flipkart Semantic Recommender System
-* **Tech Stack:** LangChain, AstraDB, Kubernetes (Minikube), Docker
-* **Impact:** Engineered a product discovery engine utilizing HuggingFace embeddings and AstraDB. Orchestrated the system lifecycle using Kubernetes for automated scaling and health monitoring.
-
-### ✈️ Other Notable Projects:
-- **AI Travel Planner:** Real-time data fetching via RAG with Groq LLM, monitored using the **ELK Stack** for complete system observability.
-- **AI Celebrity Detector & Q&A:** Combined **OpenCV** with LLMs on **Google Kubernetes Engine (GKE)** with seamless **CircleCI** triggers.
+### 📊 Observability & Core Data Science
+* **Telemetry & Logs:** ELK Stack (Elasticsearch, Logstash, Kibana), Prometheus, Grafana
+* **Core ML:** Python, SQL, Scikit-learn, XGBoost, TensorFlow, OpenCV (Computer Vision)
 
 ---
 
-## 📚 Publications
+## 🚀 Featured Engineering Projects (Production-Ready)
 
-1. **"ML & AI in Research and Healthcare"** – Focused on specialized clinical data and predictive intelligence.
-2. **"Cloud Computing in Education Systems"** – Focused on cloud orchestration and scalable academic frameworks.
+### 1. Multi-AI Agent System with Automated CI/CD
+* **The Problem:** Designing a system that can handle complex task decomposition without hardcoded logic.
+* **My Solution:** I architected a multi-agent collaboration workflow using **LangGraph** and exposed it via **FastAPI**. 
+* **The Production Side:** To treat this like enterprise software, I built a rigid **Jenkins** pipeline integrated with **SonarQube** for automated code quality gates and security analysis before pushing the final images to **AWS ECR**.
+
+### 2. Enterprise Medical RAG Chatbot (End-to-End LLMOps)
+* **The Problem:** Healthcare data demands extreme data privacy, lightning-fast lookups, and absolute container security.
+* **My Solution:** Developed a highly contextual medical Q&A engine powered by **Mistral-7B** and optimized semantic search latency using **FAISS**.
+* **The Production Side:** Integrated **Trivy (Aqua Security)** directly into the automation pipeline. Every time the application updates, the Docker images are automatically scanned for OS-level vulnerabilities before deployment.
+
+### 3. Flipkart Semantic Product Discovery Engine
+* **The Problem:** Traditional keyword-based search fails to capture user intent.
+* **My Solution:** Built a semantic recommendation system leveraging HuggingFace embeddings and **AstraDB** for high-dimensional vector storage.
+* **The Production Side:** Instead of a simple local script, I containerized the setup and orchestrated its lifecycle using local **Kubernetes (Minikube)**, configuring automated health probes and performance monitoring.
+
+### ✈️ More Projects inside my Repositories:
+* **AI Travel Planner:** Uses Groq LLM and LangChain for dynamic itineraries, fully monitored via the **ELK Stack** for complete system observability.
+* **AI Celebrity Detector & Q&A:** A hybrid system combining **OpenCV** with LLMs, deployed seamlessly to **GKE** via **CircleCI** triggers.
+
+---
+
+## 📚 Technical Publications
+
+1. **"ML & AI in Research and Healthcare"** – Investigating specialized clinical data management and predictive intelligence.
+2. **"Cloud Computing in Education Systems"** – Architecting scalable cloud orchestration frameworks for academic infrastructure.
 
 ---
 
@@ -63,8 +71,10 @@ I am a highly skilled **AI/ML Engineer** specializing in building autonomous mul
 
 ---
 
-## 🌐 Let's Connect!
+## 🌐 Let's Collaborate!
 
-- 💼 **LinkedIn:** [linkedin.com/in/deepak-yadav-639794237](https://linkedin.com/in/deepak-yadav-639794237)
-- 📧 **Email:** deepakitjob9892@gmail.com
-- 📍 **Location:** Mumbai, India
+I’m always open to discussing LLM architecture, MLOps pipeline optimization, or open-source AI projects.
+
+* 💼 **LinkedIn:** [linkedin.com/in/deepak-yadav-639794237](https://linkedin.com/in/deepak-yadav-639794237)
+* 📧 **Email:** deepakitjob9892@gmail.com
+* 📍 **Location:** Mumbai, India
