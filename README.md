@@ -1,9 +1,9 @@
 # Hi, I'm Deepak Yadav 👋
 
-I am an **AI/ML Engineer & Technical Leader** based in Mumbai. I specialize in the practical, production side of artificial intelligence—moving beyond Jupyter Notebooks to architect scalable **Multi-Agent Systems, advanced RAG pipelines, and automated LLMOps infrastructure**.
-
-With a mix of corporate experience and academic technical leadership, I don't just build models; I build the pipelines that test, deploy, monitor, and secure them.
-
+AI and Data Science Professional with 3+ years of experience in training, mentoring, and developing hands-on Machine
+Learning and Generative AI projects using Python, SQL, Scikit-learn, TensorFlow, LangChain, and FastAPI. Experienced
+in data preprocessing, model development, evaluation, and building Retrieval-Augmented Generation (RAG) applications.
+Passionate about solving real-world business problems using AI and seeking to transition into an AI/ML Engineer role.
 ---
 
 ## ⚡ Executive Summary & Real-World Impact
