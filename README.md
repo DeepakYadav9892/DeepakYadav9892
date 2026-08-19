@@ -1,57 +1,47 @@
-****# Hi, I'm Deepak Yadav 👋
+# Hi, I'm Deepak Yadav 👋
 
-AI and Data Science Professional with 3+ years of experience in training, mentoring, and developing hands-on Machine
-Learning and Generative AI projects using Python, SQL, Scikit-learn, TensorFlow, LangChain, and FastAPI. Experienced
-in data preprocessing, model development, evaluation, and building Retrieval-Augmented Generation (RAG) applications.
-Passionate about solving real-world business problems using AI and seeking to transition into an AI/ML Engineer role.
----
-****
-## ⚡ Executive Summary & Real-World Impact
-
-* **Accelerating Engineering Teams:** Led technical sprints and architecture reviews for over 300+ junior developers, optimization that ultimately accelerated project delivery timelines by **25%**.
-* **Bridging Research & Production:** Published 2 research papers focused on core ML applications in healthcare systems and scalable cloud orchestration frameworks.
-* **Data-Driven Engineering:** During my time at *Search Digitally*, I re-engineered customer segmentation using K-Means and XGBoost, which directly drove a **12% increase** in business targeting accuracy.
+AI and Data Science Professional with 3+ years of experience in training, mentoring, and developing hands-on Machine Learning and Generative AI applications using Python, SQL, Scikit-learn, TensorFlow, LangChain, and FastAPI. Specializing in data preprocessing, model evaluation, LLMOps, and building production-ready Retrieval-Augmented Generation (RAG) applications. Passionate about solving complex business problems using scalable AI architecture and targeting AI/ML Engineer roles.
 
 ---
 
-## 🛠️ My Tech Stack & Ecosystem
+## ⚡ Executive Summary & Impact
 
-### 🤖 Generative AI & Vector Engineering
-* **Frameworks:** LangChain, LangGraph (Complex Multi-Agent Orchestration), LlamaIndex
-* **Models:** Llama 3, Mistral-7B, GPT-4, Custom Prompt Engineering
-* **Vector DBs:** AstraDB, Pinecone, FAISS (Semantic Search & Retrieval Optimization)
-
-### 🏗️ LLMOps, CI/CD & Infrastructure
-* **Orchestration & Containers:** Docker, Kubernetes (Local Minikube & Google Kubernetes Engine - GKE)
-* **Automation Pipelines:** Jenkins, CircleCI, ArgoCD
-* **Security & Testing:** SonarQube (Static Code Quality), Aqua Security / Trivy (Container Vulnerability Scanning)
-
-### 📊 Observability & Core Data Science
-* **Telemetry & Logs:** ELK Stack (Elasticsearch, Logstash, Kibana), Prometheus, Grafana
-* **Core ML:** Python, SQL, Scikit-learn, XGBoost, TensorFlow, OpenCV (Computer Vision)
+* **Accelerating Engineering Teams:** Led technical sprints and architecture reviews for over 300+ junior developers, accelerating project delivery timelines by **25%**.
+* **Bridging Research & Production:** Authored 2 research papers on core ML applications in healthcare systems and scalable cloud orchestration frameworks.
+* **Data-Driven Engineering:** Re-engineered customer segmentation using K-Means and XGBoost at *Search Digitally*, resulting in a **12% increase** in business targeting accuracy.
 
 ---
 
-## 🚀 Featured Engineering Projects (Production-Ready)
+## 🛠️ Tech Stack & Ecosystem
+
+| Category | Skillset & Tools |
+| :--- | :--- |
+| **Generative AI & Vectors** | LangChain, LangGraph (Multi-Agent Workflows), LlamaIndex, Llama 3, Mistral-7B, GPT-4, Custom Prompting, AstraDB, Pinecone, FAISS |
+| **LLMOps & Infrastructure** | Docker, Kubernetes (Minikube & GKE), Jenkins, CircleCI, ArgoCD, SonarQube, Aqua Security / Trivy |
+| **Observability & Core ML** | ELK Stack (Elasticsearch, Logstash, Kibana), Prometheus, Grafana, Python, SQL, Scikit-learn, XGBoost, TensorFlow, OpenCV |
+
+---
+
+## 🚀 Featured Engineering Projects
 
 ### 1. Multi-AI Agent System with Automated CI/CD
-* **The Problem:** Designing a system that can handle complex task decomposition without hardcoded logic.
-* **My Solution:** I architected a multi-agent collaboration workflow using **LangGraph** and exposed it via **FastAPI**. 
-* **The Production Side:** To treat this like enterprise software, I built a rigid **Jenkins** pipeline integrated with **SonarQube** for automated code quality gates and security analysis before pushing the final images to **AWS ECR**.
+* **The Problem:** Designing an intelligent orchestration system capable of complex task decomposition without hardcoded logic.
+* **The Solution:** Architected a multi-agent collaboration workflow using **LangGraph** exposed via **FastAPI**.
+* **Production Pipeline:** Built a robust **Jenkins** pipeline integrated with **SonarQube** for automated static code analysis and security quality gates before publishing images to **AWS ECR**.
 
 ### 2. Enterprise Medical RAG Chatbot (End-to-End LLMOps)
-* **The Problem:** Healthcare data demands extreme data privacy, lightning-fast lookups, and absolute container security.
-* **My Solution:** Developed a highly contextual medical Q&A engine powered by **Mistral-7B** and optimized semantic search latency using **FAISS**.
-* **The Production Side:** Integrated **Trivy (Aqua Security)** directly into the automation pipeline. Every time the application updates, the Docker images are automatically scanned for OS-level vulnerabilities before deployment.
+* **The Problem:** Healthcare applications require strict data privacy, ultra-low latency retrieval, and container-level security.
+* **The Solution:** Built a contextual medical Q&A engine powered by **Mistral-7B**, leveraging **FAISS** to minimize semantic search latency.
+* **Production Pipeline:** Integrated **Trivy (Aqua Security)** into the automated build pipeline to scan Docker container layers for OS vulnerabilities prior to deployment.
 
-### 3. Flipkart Semantic Product Discovery Engine
-* **The Problem:** Traditional keyword-based search fails to capture user intent.
-* **My Solution:** Built a semantic recommendation system leveraging HuggingFace embeddings and **AstraDB** for high-dimensional vector storage.
-* **The Production Side:** Instead of a simple local script, I containerized the setup and orchestrated its lifecycle using local **Kubernetes (Minikube)**, configuring automated health probes and performance monitoring.
+### 3. Semantic Product Discovery Engine
+* **The Problem:** Traditional keyword-based e-commerce search fails to resolve semantic user intent.
+* **The Solution:** Developed a vector search recommendation engine using HuggingFace embeddings paired with **AstraDB** for high-dimensional vector storage.
+* **Production Pipeline:** Containerized services and orchestrated cluster deployment on local **Kubernetes (Minikube)** with custom automated health probes and monitoring.
 
-### ✈️ More Projects inside my Repositories:
-* **AI Travel Planner:** Uses Groq LLM and LangChain for dynamic itineraries, fully monitored via the **ELK Stack** for complete system observability.
-* **AI Celebrity Detector & Q&A:** A hybrid system combining **OpenCV** with LLMs, deployed seamlessly to **GKE** via **CircleCI** triggers.
+### ✈️ Additional Repositories
+* **AI Travel Planner:** Dynamic itinerary engine using Groq LLM and LangChain, fully instrumented with the **ELK Stack** for real-time observability.
+* **AI Celebrity Detector & Q&A:** Computer vision pipeline combining **OpenCV** with LLM agents, deployed to **GKE** via automated **CircleCI** triggers.
 
 ---
 
@@ -64,7 +54,7 @@ Passionate about solving real-world business problems using AI and seeking to tr
 
 ## 📊 GitHub Performance Stats
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DeepakYadav9892&show_icons=true&theme=dark&hide_border=true" alt="Deepak's GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeepakYadav9892&theme=dark&hide_border=true" alt="Deepak's Streak Stats" width="48%" />
 </p>
@@ -73,7 +63,7 @@ Passionate about solving real-world business problems using AI and seeking to tr
 
 ## 🌐 Let's Collaborate!
 
-I’m always open to discussing LLM architecture, MLOps pipeline optimization, or open-source AI projects.
+I am actively open to discussing LLM architectures, MLOps pipeline optimizations, or open-source AI projects.
 
 * 💼 **LinkedIn:** [linkedin.com/in/deepak-yadav-639794237](https://linkedin.com/in/deepak-yadav-639794237)
 * 📧 **Email:** deepakitjob9892@gmail.com
