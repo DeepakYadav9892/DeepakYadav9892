@@ -1,11 +1,11 @@
-**# Hi, I'm Deepak Yadav 👋
+****# Hi, I'm Deepak Yadav 👋
 
 AI and Data Science Professional with 3+ years of experience in training, mentoring, and developing hands-on Machine
 Learning and Generative AI projects using Python, SQL, Scikit-learn, TensorFlow, LangChain, and FastAPI. Experienced
 in data preprocessing, model development, evaluation, and building Retrieval-Augmented Generation (RAG) applications.
 Passionate about solving real-world business problems using AI and seeking to transition into an AI/ML Engineer role.
 ---
-**
+****
 ## ⚡ Executive Summary & Real-World Impact
 
 * **Accelerating Engineering Teams:** Led technical sprints and architecture reviews for over 300+ junior developers, optimization that ultimately accelerated project delivery timelines by **25%**.
